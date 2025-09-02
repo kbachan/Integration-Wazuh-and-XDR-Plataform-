@@ -19,6 +19,7 @@ The integration enables:
 ## Results
 The integration successfully improved visibility of endpoint activity and allowed faster detection of security incidents through centralized SIEM correlation.
 
-<img width="795" height="291" alt="image" src="https://github.com/user-attachments/assets/15501513-b15e-4440-86ab-6f9fce95e87c" />
+<img width="795" height="291" alt="image" src="https://github.com/user-attachments/assets/7107c5e1-1ea3-4409-b64a-fd8a3a6f60ac" />
+
 
 This lab was developed on Google Cloud.
