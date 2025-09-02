@@ -1,0 +1,1 @@
+# Integration-Wazuh-and-XDR-Plataform-
